@@ -1,27 +1,51 @@
-Assignment 1: Pointers in C/C++
-Aman Gupta
-•
-Oct 28
-100 points
-Due Tomorrow
-🎯
-Basic pointer declaration and usage
-Pointer arithmetic operations
-Advanced pointer concepts (function pointers, void pointers)
-Pointers to pointers
-📖 Study Resources Video Tutorials 🎥
-https://www.youtube.com/watch?v=h-HBipu_1P0
-https://www.youtube.com/watch?v=d3kd5KbGB48
-📖 📝
-https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array
-https://www.geeksforgeeks.org/pointer-arithmetics-in-c-with-examples/
-https://www.geeksforgeeks.org/function-pointer-in-c/
-https://www.geeksforgeeks.org/void-pointer-c-cpp/
-https://www.tutorialspoint.com/cprogramming/c_pointers.htm
-📝
-Study all the provided resources thoroughly
-Practice writing simple pointer programs
-Make notes of important concepts
-📤
+🧮 Assignment 1: Pointers in C/C++
+
+Author: Aman Gupta
+Date: Oct 28
+Points: 100
+Due: Tomorrow
+
+🎯 Objectives
+
+Understand basic pointer declaration and usage
+
+Perform pointer arithmetic operations
+
+Explore advanced pointer concepts:
+
+Function pointers
+
+Void pointers
+
+Learn about pointers to pointers
+
+📖 Study Resources
+🎥 Video Tutorials
+
+Pointers in C/C++ - Video 1
+
+Pointers in C/C++ - Video 2
+
+📚 Articles & Guides
+
+Pointers in C and C++ (Set 1: Introduction, Arithmetic, and Arrays) – GeeksforGeeks
+
+Pointer Arithmetics in C (with Examples) – GeeksforGeeks
+
+Function Pointers in C – GeeksforGeeks
+
+Void Pointers in C/C++ – GeeksforGeeks
+
+Pointers in C Programming – TutorialsPoint
+
+📝 Instructions
+
+Study all the provided resources thoroughly.
+
+Practice writing simple pointer programs.
+
+Make notes of important concepts.
+
+📤 Submission
 
 Write a brief summary of what you learned about pointers and mention any doubts or difficult concepts you encountered.
