@@ -3,7 +3,7 @@
 **Author:** Aman Gupta  
 **Date:** Oct 28  
 **Points:** 100  
-**Due:** Tomorrow  
+**Due:** Oct 31 
 
 ---
 
