@@ -114,3 +114,11 @@ Due to their direct interaction with memory, pointers carry certain risks:
 Pointers are one of the most powerful and flexible tools in C/C++ programming. They enable efficient memory management, direct data manipulation, and implementation of advanced features like dynamic structures and callbacks. However, they must be used with **discipline and care**, as improper handling can lead to severe memory errors and crashes.
 
 ---
+
+## 📚 References
+
+- [GeeksforGeeks – Pointers in C](https://www.geeksforgeeks.org/c/c-pointers/)  
+- [GeeksforGeeks – Pointer Arithmetics in C with Examples](https://www.geeksforgeeks.org/c/pointer-arithmetics-in-c-with-examples/)  
+- [GeeksforGeeks – Function Pointer in C](https://www.geeksforgeeks.org/c/function-pointer-in-c/)  
+- [GeeksforGeeks – Void Pointer in C/C++](https://www.geeksforgeeks.org/c/void-pointer-c-cpp/)  
+- [TutorialsPoint – C Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
