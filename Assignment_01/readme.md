@@ -1,9 +1,3 @@
-The following summary reviews all the provided source material regarding the fundamental concepts, advanced applications, and arithmetic rules governing **Pointers in C/C++**.
-
-The output is formatted as a GitHub `readme.md` file.
-
-***
-
 # Pointers in C/C++: Comprehensive Guide
 
 Pointers are a fundamental and critical concept in C/C++ programming, serving as a derived data type used to manage low-level memory operations. A pointer variable stores the **memory address** of another variable rather than storing the value directly.
@@ -103,3 +97,4 @@ Due to their direct interaction with memory, pointers carry risks:
 *   Providing incorrect values to pointers can cause ** memory corruption**.
 *   Uninitialized (wild) pointers can result in a **segmentation fault**.
 *   Accessing data via pointers can be comparatively slower than accessing simple variables.
+
