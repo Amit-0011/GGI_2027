@@ -12,7 +12,7 @@ When a variable is declared (e.g., `int a`), the computer allocates a specific b
 
 A pointer must be declared to match the data type of the variable it intends to point to, ensuring "type compatibility".
 
-| Operation | Operator | Purpose | Syntax | Source |
+| Operation | Operator | Purpose | Syntax |
 | :--- | :--- | :--- | :--- | :--- |
 | **Declaration** | `*` (Asterisk) | Used to designate a variable as a pointer to a specific type. | `data_type *pointer_name;` | |
 | **Referencing** | `&` (Address-of Operator) | Retrieves the memory address of an existing variable. | `ptr = &variable;` | |
@@ -30,7 +30,7 @@ Pointer arithmetic refers to the limited set of arithmetic operations valid for 
 
 ### 2.1 Valid Operations
 
-| Operation | Description | Example Effect (on an `int*` where `sizeof(int)` is 4) | Source |
+| Operation | Description | Example Effect (on an `int*` where `sizeof(int)` is 4) |
 | :--- | :--- | :--- | :--- |
 | **Increment/Decrement** (`++`, `--`) | The address increments or decrements by a value equal to the **size of the data type** the pointer targets. | If address is 1000, `ptr++` moves it to 1004 (1000 + 4). | |
 | **Addition/Subtraction of Integer** (`+N`, `-N`) | The integer value `N` is first multiplied by `sizeof(data_type)` before being added to or subtracted from the pointer address. | If address is 1000, `ptr + 5` results in $1000 + (5 \times 4) = 1020$. | |
@@ -97,4 +97,5 @@ Due to their direct interaction with memory, pointers carry risks:
 *   Providing incorrect values to pointers can cause ** memory corruption**.
 *   Uninitialized (wild) pointers can result in a **segmentation fault**.
 *   Accessing data via pointers can be comparatively slower than accessing simple variables.
+
 
