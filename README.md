@@ -5,7 +5,6 @@
 **Points:** 100  
 **Due:** Oct 31 
 
----
 
 ## 🎯 Objectives
 
@@ -16,7 +15,6 @@
   - Void pointers  
 - Learn about **pointers to pointers**
 
----
 
 ## 📖 Study Resources
 
@@ -31,7 +29,6 @@
 - [Void Pointers in C/C++ – GeeksforGeeks](https://www.geeksforgeeks.org/void-pointer-c-cpp/)  
 - [Pointers in C Programming – TutorialsPoint](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
 
----
 
 ## 📝 Instructions
 
@@ -39,7 +36,6 @@
 2. Practice writing simple pointer programs.  
 3. Make notes of important concepts.  
 
----
 
 ## 📤 Submission
 
